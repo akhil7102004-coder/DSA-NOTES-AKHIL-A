@@ -1,0 +1,101 @@
+(25.5.2026)-Introduction to python programming - First Class
+
+Monday, May 25, 2026
+11:35 AM
+
+Text values will be in either single or double quotes(',")
+For numbers Do Not use quotes
+sep - seperator(it seperates the spaces with what values we wants - _ - . / etc)
+eg: sep="."
+
+
+Variable is a reserved memory location to store values
+Rules for variable names:
+	• Variable name must start with a letter or underscore (_)
+	• Variable name cannot start with a number
+	• Variable name can contain letters, numbers, and underscores
+	• Variable name cannot contain spaces
+	• Variable name cannot contain special characters like @, #, $, %, -, etc.
+	• Variable names are case-sensitive (age and Age are different)
+	• Python keywords cannot be used as variable names (if, for, class, etc.)
+	• Use meaningful and readable variable names
+	• Python naming convention prefers snake_case (student_name, total_marks)
+
+
+Keywords
+Python keywords are reserved words that have special meanings and cannot be used as variable names
+
+Some keywords are: 
+False await else import pass
+None break except in raise
+True class finally is return
+and continue for lambda try
+as def from nonlocal while
+assert del global not with
+async elif if or yield
+
+
+Add f to print multpiple stateemnts
+input to add input in code
+
+DATA TYPES
+Definition: Stores whole numbers without decimals.
+
+• int (Integer) – Stores whole numbers without decimals
+• float – Stores decimal numbers
+• str (String) – Stores text or characters inside quotes
+• bool (Boolean) – Stores True or False values
+• list – Ordered and changeable collection of items
+• tuple – Ordered and unchangeable collection of items
+• set – Unordered collection of unique items
+• dict (Dictionary) – Stores data in key-value pairs
+• complex – Stores complex numbers
+
+
+STRING FUNCTIONS
+
+Function	Meaning	Example
+upper()	Converts to uppercase	"hello".upper() → "HELLO"
+lower()	Converts to lowercase	"HELLO".lower() → "hello"
+title()	First letter of each word capital	"hello world".title() → "Hello World"
+capitalize()	First letter capital	"python".capitalize() → "Python"
+strip()	Removes spaces from both sides	" hello ".strip() → "hello"
+lstrip()	Removes left spaces	" hello".lstrip()
+rstrip()	Removes right spaces	"hello ".rstrip()
+replace()	Replaces text	"apple".replace("a","A") → "Apple"
+find()	Finds position of text	"python".find("t") → 2
+index()	Finds position (error if not found)	"python".index("o")
+count()	Counts occurrences	"banana".count("a") → 3
+startswith()	Checks starting text	"python".startswith("py") → True
+endswith()	Checks ending text	"python".endswith("on") → True
+split()	Splits string into list	"a,b,c".split(",")
+join()	Joins list into string	"-".join(["a","b"]) → "a-b"
+isalpha()	Checks only letters	"abc".isalpha() → True
+isdigit()	Checks only numbers	"123".isdigit() → True
+isalnum()	Checks letters and numbers	"abc123".isalnum()
+isspace()	Checks only spaces	" ".isspace()
+swapcase()	Changes upper to lower and vice versa	"PyThOn".swapcase()
+center()	Centers string	"Hi".center(10,"-")
+zfill()	Fills zeros at beginning	"25".zfill(5) → "00025"
+len()	Returns length of string	len("python") → 6
+		
+
+OPERATORS
+Arithetic
+
+
+
+ASSIGNMENT OPERATOR
+
+
+
+COMPARISON OPERATOR
+
+
+
+
+LOGICAL OPERATOR
+
+
+
+
