@@ -1,0 +1,27 @@
+Friday, May 29, 2026
+10:54 AM
+
+OOPs in Python (Object-Oriented Programming)
+Object-Oriented Programming (OOP) is a programming style where code is organized using objects and classes.
+Python supports OOP to help make programs:
+• Reusable
+• Organized
+• Easy to maintain
+
+1. Class and Object
+   A class is a blueprint.
+   An object is a real instance of the class.
+
+• Constructor (**init**): A special method that is automatically called when an object is created.
+• self: Refers to the current object of the class.
+• Encapsulation: Wrapping data and methods into a single unit (class) and restricting direct access to data.
+• Inheritance: The process by which one class acquires the properties and methods of another class.
+• Polymorphism: The ability of the same method or function to behave differently for different objects.
+• Abstraction: Hiding implementation details and showing only essential features to the user.
+• Method: A function defined inside a class.
+• Attribute: A variable that belongs to a class or object.
+• Instance Variable: A variable whose value is unique for each object.
+• Class Variable: A variable shared by all objects of a class.
+• Public Member: Accessible from anywhere.
+• Protected Member: Intended to be accessed within the class and its subclasses (prefixed with \_).
+• Private Member: Accessible only within the class (prefixed with \_\_).
