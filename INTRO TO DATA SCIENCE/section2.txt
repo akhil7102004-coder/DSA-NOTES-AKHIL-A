@@ -1,0 +1,75 @@
+DATA SCIENCE INTRO
+
+Monday, May 25, 2026
+11:34 AM
+
+It is the field of using data to extract insights, make predictions, and support decision-making. It combines skills from statistics, programming, mathematics, and domain knowledge.
+A data scientist typically works with large amounts of data to:
+	• Collect and clean data
+	• Analyze patterns and trends
+	• Build predictive models using machine learning
+	• Visualize and communicate findings
+	• Help organizations make data-driven decisions
+Difference Between Related Fields
+	• Data Analysis → focuses on understanding past data
+	• Data Science → includes prediction and advanced modeling
+	• Machine Learning → subset of data science focused on algorithms
+	• Artificial Intelligence → broader field of intelligent systems
+Difference between Data Science and data Analytics and Data Engineering.png 
+Pasted image 20260521104711.png
+What is Machine Learning?
+Machine Learning is a branch of Artificial Intelligence where computers learn from data and improve automatically without being explicitly programmed for every task.
+Simple Definition
+Machine Learning is the process of teaching computers to learn patterns from data and make predictions or decisions.
+Methods of Machine Learning
+Machine Learning mainly has 3 major methods:
+
+1. Supervised Learning
+In this method, the model learns using labeled data.
+That means:
+	• Input data already has correct answers.
+Example
+Email → Spam / Not Spam
+
+The machine learns from examples and predicts future outputs.
+Applications
+	• Spam detection
+	• House price prediction
+	• Disease prediction
+Common Algorithms
+	• Linear Regression
+	• Logistic Regression
+	• Decision Trees
+	• Random Forest
+
+2. Unsupervised Learning
+In this method, the model learns using unlabeled data.
+No correct answers are provided.
+The machine finds hidden patterns by itself.
+Example
+Grouping customers based on shopping behavior.
+Applications
+	• Customer segmentation
+	• Recommendation systems
+	• Pattern detection
+Common Algorithms
+	• K-Means Clustering
+	• PCA
+	• Hierarchical Clustering
+
+3. Reinforcement Learning
+In this method, the machine learns using:
+	• Rewards
+	• Punishments
+The system improves through trial and error.
+Example
+Correct Action → RewardWrong Action → Penalty
+
+Applications
+	• Self-driving cars
+	• Robotics
+	• AI game agents
+Data Science Lifecycle
+
+
+
