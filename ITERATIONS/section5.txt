@@ -1,0 +1,22 @@
+Iterations
+
+Wednesday, May 27, 2026
+9:45 AM
+
+1. Definite Loop(for)
+
+A definite loop runs a fixed number of times.
+
+You already know how many times the loop should repeat.
+
+
+2. Indefinite Loop(while)
+
+An indefinite loop runs until a condition becomes False.
+
+You do not know exactly how many times it will repeat.
+
+
+
+
+
