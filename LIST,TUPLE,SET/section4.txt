@@ -1,0 +1,83 @@
+In - used to check a specific str is present return true/false
+Notin - used to confirm a speciific str is not present
+
+--------------------------------------------------------------------------------------------------------------
+
+
+
+
+LIST []
+• A list is an ordered collection of items. 
+• Lists are created using square brackets []. 
+• A list can store different data types. 
+• Lists are mutable (can be changed). 
+• Elements are accessed using indexing. 
+• Index starts from 0. 
+• Negative indexing is allowed (-1 for last item). 
+• Duplicate values are allowed. 
+• Lists can contain another list inside them. 
+• Items can be added using append() and insert(). 
+• Items can be removed using remove(), pop(), and del. 
+• Lists can be sliced using [:]. 
+• Lists are iterable using loops. 
+• Common functions: 
+	• len() → length of list 
+	• sort() → sort items 
+	• reverse() → reverse list 
+	• clear() → remove all items
+
+List Methods
+
+
+	
+
+TUPLE ()
+
+• A tuple is an ordered collection of items. 
+• Tuples are created using parentheses (). 
+• A tuple can store different data types. 
+• Tuples are immutable (cannot be changed after creation). 
+• Elements are accessed using indexing. 
+• Index starts from 0. 
+• Negative indexing is allowed. 
+• Duplicate values are allowed. 
+• Tuples are faster than lists. 
+• Tuples can contain another tuple inside them. 
+• Tuples are iterable using loops. 
+• Common functions: 
+	• len() → length of tuple 
+	• count() → counts occurrences 
+	• index() → finds index of value
+
+
+SET {}
+
+• A set is an unordered collection of items. 
+• Sets are created using curly braces {}. 
+• Duplicate values are not allowed. 
+• Sets are mutable (can be changed). 
+• Indexing is not supported. 
+• Sets can store different data types. 
+• Sets are useful for unique values. 
+• Items can be added using add(). 
+• Multiple items can be added using update(). 
+• Items can be removed using remove() or discard(). 
+• Sets support mathematical operations like: 
+	• Union 
+	• Intersection 
+	• Difference 
+• Common functions: 
+	• len() → length of set 
+	• clear() → remove all items
+
+
+
+
+
+CONDITIONS
+
+If-Elif-Else
+
+Syntax
+
+If coni
